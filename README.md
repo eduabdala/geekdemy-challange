@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-This repository contains documentation and explanations of the solution architecture and design decisions made for the **Geektrust - The Ledger Co.** coding problem.
+This repository contains documentation and explanations of the solution architecture and design decisions made for the **Geektrust - Geekdemy.** coding challange.
 
 ---
 

@@ -18,6 +18,8 @@ This project contains multiple structured sections:
 - [`📘 5. Goal`](docs/goal.md)
 - [`📘 6. Cupons`](docs/cupons.md)
 
+- [`Development path`](docs/development_path.md)
+
 ---
 
 ## Commands
